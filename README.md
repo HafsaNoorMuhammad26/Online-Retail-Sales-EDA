@@ -110,14 +110,14 @@ The project includes an interactive Power BI dashboard with the following pages:
 ```
 
 Online-Retail-Sales-EDA/
-├── data/
-│   └── OnlineRetail.csv
-├── notebook/
-│   └── online\_retail\_eda.ipynb
-├── dashboard/
-│   └── Online\_Retail\_Sales\_Dashboard.pbix
-├── requirements.txt
-└── README.md
+├── .ipynb_checkpoints/            # Jupyter auto-saved checkpoints
+├── Cleaned_Retail_Data.csv        # Cleaned dataset after preprocessing
+├── Customer_RFM.csv               # Customer segmentation (RFM) results
+├── Power BI Dashboard.pbix        # Power BI interactive dashboard
+├── README.md                      # Project overview and documentation
+├── Retail Sales EDA project.ipynb # Main Jupyter Notebook for EDA
+├── online_retail_II.xlsx          # Original dataset from Kaggle
+├── requirements.txt               # Python dependencies
 
 ````
 
