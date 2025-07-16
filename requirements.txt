@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+numpy
+openpyxl   # If you're reading/writing Excel files
+jupyter  ## Or code editor
